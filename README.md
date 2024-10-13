@@ -1,10 +1,13 @@
-# Fidel A Cepero Salazar - Full Stack Developer
+# Hi, I'm Fidel A Cepero Salazar 
 
-## Sobre mí
-
-Desarrollador altamente comprometido y estudioso con sólida formación en el desarrollo de software. Apasionado por mantenerme actualizado con las últimas tendencias y tecnologías en desarrollo, orientado hacia el crecimiento profesional y el aprendizaje continuo. Siempre enfocado en seguir las mejores prácticas de programación, participo activamente en proyectos de código abierto y privado, con el fin de ganar experiencia y contribuir a la comunidad.
+## 
 
 
+🌱 I’m currently learning NestJs and SpringBoot
+
+📫 How to reach me fidelsalazar990923@gmail.com
+
+📄 Know about my experiences Download CV
 
 ## Habilidades
 
