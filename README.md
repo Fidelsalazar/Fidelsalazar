@@ -17,9 +17,7 @@
     </a>
     <a href="https://wa.me/+5363807211" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="Fidelsalazar" height="30" width="40" /></a>
-    <a href="https://t.me/fidelsalazar" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="Fidelsalazar" height="30" width="40" />
-    </a>
+    
 </p>
 </p>
 
