@@ -72,9 +72,9 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wachu985&show_icons=true&theme=dracula&locale=en&layout=compact" alt="Fidelsalazar" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Fidelsalazar&show_icons=true&theme=dracula&locale=en&layout=compact" alt="Fidelsalazar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wachu985&show_icons=true&theme=dracula&locale=en" alt="Fidelsalazar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Fidelsalazar&show_icons=true&theme=dracula&locale=en" alt="Fidelsalazar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wachu985&" alt="Fidelsalazar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Fidelsalazar&" alt="Fidelsalazar" /></p>
 
