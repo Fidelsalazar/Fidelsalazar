@@ -83,12 +83,6 @@
   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring boot" width="40" height="40"/>
   </a>
-  <a href="https://spring.io/projects/spring-cloud" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring cloud" width="40" height="40"/>
-  </a>
-  <a href="https://docs.spring.io/spring-framework/docs/current/reference/html/web.html#websocket" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring websocket" width="40" height="40"/>
-  </a>
 </p>
 
 
