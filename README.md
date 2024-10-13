@@ -12,14 +12,13 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <p align="left">
-    <a href="https://linkedin.com/in/wachu985" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wachu985" height="30" width="40" /></a>
-    <a href="https://instagram.com/wachu985" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="FIdelsalazar" height="30" width="40" />
+    <a href="https://linkedin.com/in/fidel-salazar-dev" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Fidelsalazar" height="30" width="40" />
     </a>
     <a href="https://wa.me/+5363807211" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="wachu985" height="30" width="40" /></a>
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="Fidelsalazar" height="30" width="40" /></a>
     <a href="https://t.me/fidelsalazar" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="FIdelsalazar" height="30" width="40" />
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="Fidelsalazar" height="30" width="40" />
     </a>
 </p>
 </p>
