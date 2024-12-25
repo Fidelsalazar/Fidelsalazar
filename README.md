@@ -2,6 +2,8 @@
 
 ### Full Stack Developer with a strong focus on delivering seamless user experiences. I specialize in building high-performance web and mobile applications, guiding projects from ideation to production by blending design, cutting-edge technology, and innovation. My goal is to create efficient, scalable solutions that meet user needs while pushing the boundaries of digital experiences.
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Fidelsalazar" alt="Fidelsalazar" /></a> </p>
+
 
 🌱 I’m currently learning NestJs and SpringBoot
 
