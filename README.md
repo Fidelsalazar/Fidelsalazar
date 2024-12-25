@@ -85,10 +85,16 @@
   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring boot" width="40" height="40"/>
   </a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  </a>
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
+    </a> 
 </p>
 
 
-###Statics
+### Statics
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Fidelsalazar&show_icons=true&theme=dracula&locale=en&layout=compact" alt="Fidelsalazar" /></p>
 
