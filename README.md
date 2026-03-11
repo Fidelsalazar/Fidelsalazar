@@ -84,6 +84,9 @@
       <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring boot" width="40" height="40"/>
       </a>
+      <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+        <img src="https://github.com/gilbarbara/logos/blob/main/logos/fastapi.svg" alt="spring boot" width="40" height="40"/>
+      </a>
 </p>
 
 <h3 align="left">Database</h3>
