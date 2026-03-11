@@ -119,7 +119,7 @@
         <img src="https://www.vectorlogo.zone/logos/scylladb/scylladb-ar21.svg" alt="mysql"/> 
       </a>
       <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/neo4j/neo4j-ar21.svg" alt="mysql"/> 
+        <img src="https://www.vectorlogo.zone/logos/neo4j/neo4j-ar21.svg" alt="neo4j"/> 
       </a>
       <a href="https://www.elastic.co" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> 
@@ -131,9 +131,15 @@
       <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
       </a>
-      <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+      <a href="https://www.redhat.com/en/technologies/cloud-computing/openshift" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/openshift/openshift-ar21.svg" alt="openshift"/> 
       </a>
+      <a href="https://www.redhat.com/en/technologies/cloud-computing/openshift" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/apache_mesos/apache_mesos-ar21.svg" alt="mesos"/> 
+      </a>
+      <a href="https://www.redhat.com/en/technologies/cloud-computing/openshift" target="_blank" rel="noreferrer">
+        <img src="https://github.com/detain/svg-logos/blob/master/svg/p/portainer-wordmark-1.svg" alt="portainer" width="100" height="100"/> 
+      </a>   
 </p>
 
 <h3 align="left">Version Control</h3>
@@ -149,35 +155,61 @@
       </a>
 </p>
 
-  
-<p align="left"> 
-  
- 
-  
-  
-  
-  
-   
-  
-  
-  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  
-   
-   
-  
-  
-
-  
-  
-  
-    
+<h3 align="left">Tools</h3>
+<p align="left">
+      <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> 
+      </a> 
+      <a href="https://www.consul.io/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/consulio/consulio-ar21.svg" alt="consult" />
+      </a> 
+      <a href="https://prometheus.io/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg" alt="prometheus"/> 
+      </a>
+      <a href="https://grafana.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/grafana/grafana-ar21.svg" alt="openshift"/> 
+      </a>
+      <a href="https://www.keycloak.org/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/cncf/artwork/blob/main/projects/keycloak/horizontal/color/keycloak-horizontal-color.svg" alt="keycloak" width="100" height="100"/> 
+      </a>
+      <a href="https://swagger.io/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/gilbarbara/logos/blob/main/logos/swagger.svg" alt="swagger" width="40" height="40"/> 
+      </a>   
 </p>
 
+<h3 align="left">APIs y Servicios Externos</h3>
+<p align="left">
+    <a href="https://www.twilio.com/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/gilbarbara/logos/blob/main/logos/twilio.svg" alt="twilio" width="100" height="100"/>
+    </a>
+    <a href="https://www.ibm.com/cloud" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/ibm/ibm-icon.svg" alt="ibm" width="40" height="40"/>
+    </a>
+    <a href="https://www.openpay.mx/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.worldvectorlogo.com/logos/openpay.svg" alt="openpay" width="40" height="40"/>
+    </a>
+    <a href="https://leafletjs.com/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/gilbarbara/logos/blob/main/logos/leaflet.svg" alt="leaflet" width="100" height="100"/>
+    </a>
+    <a href="https://www.openstreetmap.org/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/simple-icons/simple-icons/blob/master/icons/openstreetmap.svg" alt="openstreetmap" width="40" height="40"/>
+    </a>
+    <a href="https://stripe.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/stripe/stripe-icon.svg" alt="stripe" width="40" height="40"/>
+    </a>
+    <a href="https://www.paypal.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/paypal/paypal-icon.svg" alt="paypal" width="40" height="40"/>
+    </a>
+    <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
+    </a>
+    <a href="https://developers.google.com/gmail/api" target="_blank" rel="noreferrer">
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" alt="gmail api" width="40" height="40"/>
+    </a>
+    <a href="https://developers.google.com/apis-explorer" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="google apis" width="40" height="40"/>
+    </a>
+</p>
 
 ### Statics
 
