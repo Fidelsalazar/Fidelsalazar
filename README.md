@@ -23,6 +23,8 @@
 </p>
 </p>
 
+</br>
+
 <h2 align="left">Languages and Tools:</h2>
 
 <h3 align="left">Programming Languages</h3>
