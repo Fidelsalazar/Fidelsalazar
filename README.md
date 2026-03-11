@@ -169,9 +169,6 @@
       <a href="https://grafana.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/grafana/grafana-ar21.svg" alt="openshift"/> 
       </a>
-      <a href="https://www.keycloak.org/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/cncf/artwork/blob/main/projects/keycloak/horizontal/color/keycloak-horizontal-color.svg" alt="keycloak" width="100" height="100"/> 
-      </a>
       <a href="https://swagger.io/" target="_blank" rel="noreferrer">
         <img src="https://github.com/gilbarbara/logos/blob/main/logos/swagger.svg" alt="swagger" width="40" height="40"/> 
       </a>   
@@ -179,6 +176,9 @@
 
 <h3 align="left">APIs y Servicios Externos</h3>
 <p align="left">
+    <a href="https://www.keycloak.org/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/cncf/artwork/blob/main/projects/keycloak/horizontal/color/keycloak-horizontal-color.svg" alt="keycloak" width="100" height="100"/> 
+    </a>
     <a href="https://www.twilio.com/" target="_blank" rel="noreferrer">
         <img src="https://github.com/gilbarbara/logos/blob/main/logos/twilio.svg" alt="twilio" width="100" height="100"/>
     </a>
