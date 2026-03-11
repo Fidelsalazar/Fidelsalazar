@@ -86,6 +86,40 @@
       </a>
 </p>
 
+<h3 align="left">Database</h3>
+<p align="left">
+      <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+      </a>
+      <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+      </a>
+      <a href="https://redis.io" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> 
+      </a>
+      <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+      </a>
+      <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/supabase/supabase-ar21~bgwhite.svg" alt="supabase"/> 
+      </a>
+      <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" alt="sqlite"/> 
+      </a>
+      <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql"/> 
+      </a>
+      <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg" alt="mysql"/> 
+      </a>
+      <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/scylladb/scylladb-ar21.svg" alt="mysql"/> 
+      </a>
+      <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/neo4j/neo4j-ar21.svg" alt="mysql"/> 
+      </a>
+</p>
+
   
 <p align="left"> 
   
@@ -96,9 +130,7 @@
   <a href="https://www.elastic.co" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> 
   </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a> 
+  
   
    
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
@@ -112,20 +144,14 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
   
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  </a> 
+   
    
   
-  <a href="https://redis.io" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> 
-  </a>
+  
 
   
   
-  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
+  
     
 </p>
 
