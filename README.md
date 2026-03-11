@@ -2,9 +2,6 @@
 
 ### Full Stack Developer with a strong focus on delivering seamless user experiences. I specialize in building high-performance web and mobile applications, guiding projects from ideation to production by blending design, cutting-edge technology, and innovation. My goal is to create efficient, scalable solutions that meet user needs while pushing the boundaries of digital experiences.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Fidelsalazar" alt="Fidelsalazar" /></a> </p>
-
-
 🌱 I’m currently learning NestJs and SpringBoot
 
 📫 How to reach me alejandrosalazar990923@gmail.com
@@ -14,13 +11,22 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <p align="left">
-    <a href="https://linkedin.com/in/fidel-salazar-dev" target="blank">
+    <a href="https://linkedin.com/in/fidel-salazar-developer" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Fidelsalazar" height="30" width="40" />
     </a>
     <a href="https://wa.me/+5363807211" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="Fidelsalazar" height="30" width="40" /></a>
     
 </p>
+</p>
+
+</br>
+
+### Statics
+
+<p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Fidelsalazar&show_icons=true&theme=dark&locale=en" alt="Fidelsalazar" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Fidelsalazar&theme=dark" alt="Fidelsalazar" />
 </p>
 
 </br>
@@ -210,12 +216,4 @@
         <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="google apis" width="40" height="40"/>
     </a>
 </p>
-
-### Statics
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Fidelsalazar&show_icons=true&theme=dracula&locale=en&layout=compact" alt="Fidelsalazar" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Fidelsalazar&show_icons=true&theme=dracula&locale=en" alt="Fidelsalazar" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Fidelsalazar&" alt="Fidelsalazar" /></p>
 
