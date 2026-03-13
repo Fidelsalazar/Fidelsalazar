@@ -6,7 +6,7 @@
 
 📫 How to reach me alejandrosalazar990923@gmail.com
 
-📄 Know about my experiences [Download CV](https://github.com/Fidelsalazar/Fidelsalazar/blob/main/Curr%C3%ADculum%20Vitae%20Cv%20de%20Marketing%20Minimalista%20Blanco%20y%20Negro%20(1).pdf)
+📄 Know about my experiences [Download CV](https://github.com/Fidelsalazar/Fidelsalazar/blob/main/Copia%20de%20Plantilla%20CV%20-%20Harvard%20(3)%20(1)%20(5).pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
