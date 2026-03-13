@@ -12,12 +12,5 @@
   "headline":"",
   "linkedin_username":"Fidel Alejandro Cepero Salazar",
   "telegram_username":"FidelSalazar",
-  "categories":[
-    "fullStackDev",
-    "frontendDev",
-    "backendDev",
-    "freelancer",
-    "softwareDev",
-    "technicalLead"
-  ]
+  "categories":["fullStackDev","frontendDev","backendDev","freelancer","softwareDev","technicalLead"]
 }
