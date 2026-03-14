@@ -1,5 +1,8 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="200px" width="100%" src="./assets/Branding Development GIF by Profound.gif"  />
+</div>
+<div align="center">
+  <img height="150" width="150" style="border-radius: 50%" src="./assets/Coding Work From Home GIF by Domme Space.gif"  />
 </div>
 
 ###
