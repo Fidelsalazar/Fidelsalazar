@@ -5,7 +5,7 @@
 ###
 
 <p align="center">
-  <a href="https://github.com/Hohemhein03"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2336BCF7&size=25&center=true&vCenter=true&width=600&height=100&lines=Team+Leader;FullStack+Developer;Always+learning+new+programming+things"></a>
+  <a href="https://github.com/Hohemhein03"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2336BCF7&size=25&center=true&vCenter=true&width=600&height=100&lines=Tecnical+Leader;FullStack+Developer;Always+learning+new+programming+things"></a>
 </p>
 
 
@@ -45,7 +45,7 @@
 <p align="left"> 
     I'm Fidel Alejandro Cepero Salazar from Cuba
     <br><br>
-    - 🔭 I’m working as  Full Stack Developer<br>
+    - 🔭 I’m working as  FullStack Developer and Tecnical Leader<br>
     - 📚 I'm currently learning NestJs and SpringBoot <br>
     - ⚡ In my free time I make code project's with my frineds</p>
 
