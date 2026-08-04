@@ -8,6 +8,10 @@
   <a href="https://github.com/Hohemhein03"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2336BCF7&size=25&center=true&vCenter=true&width=600&height=100&lines= Team+Leader;FullStack+Developer;Always+learning+new+programming+things"></a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/Hohemhein03"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2336BCF7&size=25&center=true&vCenter=true&width=600&height=100&lines=Front-End+Developer;Former+Competitive+Programmer;Always+learning+new+things"></a>
+</p>
+
 ###
 
 <div align="center">
